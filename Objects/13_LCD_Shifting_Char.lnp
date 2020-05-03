@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\13_LCD_Shifting_Char.obj" 
+TO ".\Objects\13_LCD_Shifting_Char" 
+PRINT(".\Listings\13_LCD_Shifting_Char.m51") RAMSIZE(256) 
